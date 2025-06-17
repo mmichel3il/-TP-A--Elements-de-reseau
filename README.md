@@ -13,10 +13,10 @@ Bienvenue dans l'univers rétro-tech de **CanaDuck**, une usine tranquille où l
 ---
 
 ## 📦 Contenu du dépôt
-
+### Main 
 - `3-tp.pdf` : Consigne
 - `README.md` : Ce fichier 
-Branche 2 Actions et étapes :
+### Branche 2 Actions et étapes 
 - `README.md` : Réponse aux questions 
 - `client.py` : Code pour le client
 - `server.py` : Code pour le serveur
